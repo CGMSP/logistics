@@ -1,2 +1,6 @@
 # Pitch
-Ever wanted to make a website, or a bot that spams kahoot.it with literally thousands of bots? Me neither, but if you did have such inclination, you could join our activity where you will learn to program, do web development, and get Swedish fish. By the end of the activity, you will have a website and learned the basics of python and node.js. If you have no idea what python or node.js are, great! Our activity does not require any prior knowledge (but for those of you that do, you are welcome too).
+Nathan: A spectre is haunting the world, the spectre of programming. - Karl Marx, the programming manifesto.
+Kaz: We're here to talk to you about the programming activity, where you will get to learn how to code like an expert hackerman.
+Ethan: You will learn how to code in Python, learn to make 3D and 2D games, learn how to build a website without the help of wix.com, and get Swedish fish!
+Harper: You will also learn the basics of coding so you can expand to other languages.
+Kaz: We'll hope to see you there.
