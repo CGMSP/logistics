@@ -9,6 +9,7 @@
     - logging
     - sys
     - random
+    - pynput
     - argparse
     - socket
     - pygame
