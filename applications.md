@@ -10,8 +10,19 @@
     - sys
     - random
     - pynput
+    - tensorflow
+    - pytorch
+    - opencv
+    - selenium
+    - 2to3
     - argparse
+    - pyflux
     - socket
+    - strtime
+    - arrow
+    - ipython
+    - fire (by google)
+    - pipenv
     - pygame
     - pyxel
     - turtle
