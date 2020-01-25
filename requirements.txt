@@ -1,0 +1,17 @@
+numpy
+scipy
+pynput
+pytorch
+selenium
+2to3
+argparse
+pyflux
+arrow
+ipython
+fire
+pipenv
+pygame
+pyxel
+matplotlib
+pyglet
+pyautogui

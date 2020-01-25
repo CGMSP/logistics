@@ -1,6 +1,6 @@
 # Applications we need to get installed on the computers
 
-
+If you have trouble installing these packages, see the [installation.md](installation.md) file.     
 
 - Python 3 (ideally 3.8)
   - pip 3
@@ -38,3 +38,4 @@
 - brave (the browser)
 - electron
 - bash (or zsh)
+- vscode
