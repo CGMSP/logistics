@@ -34,7 +34,6 @@ If you have trouble installing these packages, see the [installation.md](install
 - node.js (13.5)
   - npm
 - atom (the editor)
-- sublime text (the editor)
 - brave (the browser)
 - electron
 - bash (or zsh)
