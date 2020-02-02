@@ -2,7 +2,7 @@
 
 If you have trouble installing these packages, see the [installation.md](installation.md) file.     
 
-- Python 3 (3.7 or higher)
+- Python 3.7
   - pip 3
     - numpy
     - scipy
