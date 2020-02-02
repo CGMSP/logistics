@@ -38,3 +38,15 @@ If you have trouble installing these packages, see the [installation.md](install
 - electron
 - bash (or zsh)
 - vscode
+
+
+
+## Proirity (scale from 0 to 9)
+### 0:
+- python 3.7
+- vs code
+
+### 1:
+- pip 3
+- pygame
+- numpy
